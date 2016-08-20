@@ -2,8 +2,6 @@
 
 iTunes File Sharing
 
-Let make app compatible for iTunes File Sharing with single step
-
 Add Key: “Application supports iTunes file sharing” Value:“YES” in “info.plist”
 
 Thats it. :)
