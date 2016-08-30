@@ -1,9 +1,11 @@
-# SOFileSharing
+# iTunes File Sharing
 
-iTunes File Sharing
+Do you want to learn how to [integrate iTunes File Sharing](https://www.spaceotechnologies.com/integrate-itunes-file-sharing-iphone-ipad-apps/) in your app? If yes, then you’re at the right place.
 
-Add Key: “Application supports iTunes file sharing” Value:“YES” in “info.plist”
+In this tutorial, I have described what is iTunes File Sharing, why it is needed, and how you can integrate it in your own iOS app. This is achieved by following steps.
 
-Thats it. :)
+1. First, you need to add key “Application Supports iTunes File Sharing” value to “YES” in the “info.plist”.
 
-Now when you save any kind of document in your document directory you can get that from “iTunes File Sharing”
+2. Now, check the functionality by adding image from photo gallery to document directory.
+
+I’ve added the same code while working on the live projects at Space-O Technologies, a leading [mobile app development company](https://www.spaceotechnologies.com/mobile-app-development/) in india.
